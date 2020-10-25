@@ -4,6 +4,7 @@ a simple flutter first project, it's an app for taking notes & saving your passw
 <img src="https://img.shields.io/badge/0xVAULT-1.0.0-pink"/>  <img src="https://img.shields.io/badge/Flutter-1.17-lightblue"/>  <img src="https://img.shields.io/badge/Kawaii Vault-1.0.0-green"/>
 
 ## Features
+*the default pin is 000000*
 
 ### Notes
 - basic CRUD functionalities
@@ -24,7 +25,7 @@ vaultd = "(github-gist-vaultd-filename)"
 unique = "(github-gist-unique-filename)"
 ```
 
-## [Demo](https://www.youtube.com/watch?v=YMaDtI__OQE)
+## [View Demo](https://www.youtube.com/watch?v=YMaDtI__OQE)
 <img src="https://github.com/0xCN/0xVAULT/blob/main/assets/images/screenshot.jpg" height="400"/>  <img src="https://github.com/0xCN/0xVAULT/blob/main/assets/images/screenshot2.jpg" height="400"/>
 
 *this app has only been tested on android*
